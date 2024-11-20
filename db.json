@@ -1,0 +1,29 @@
+{
+  "Teachers": [
+    {
+      "id": "1",
+      "name": "Mohith",
+      "sub": "physics"
+    },
+    {
+      "id": "2",
+      "name": "Aishwarya",
+      "sub": "maths"
+    },
+    {
+      "id": "3",
+      "name": "Sai charan",
+      "sub": "social"
+    },
+    {
+      "id": "4",
+      "name": "sangeetha",
+      "sub": "science"
+    },
+    {
+      "id": "5",
+      "name": "sneha",
+      "sub": "hindi"
+    }
+  ]
+}
